@@ -16,6 +16,9 @@ dependencies = [
     "opencv-python", "tqdm", "pillow", "imageio", "ffmpeg-python", "scikit-image"
 ]
 
+[project.scripts]
+fdim = "fdim.cli:main"
+
 
 [tool.setuptools.packages.find]
 exclude = ["data*"]

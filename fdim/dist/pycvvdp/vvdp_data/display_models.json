@@ -348,6 +348,96 @@
     "max_luminance": 300,   
     "contrast": 3000,
     "E_ambient": 0,
-    "source": "https://www.eizo.com/products/coloredge/cg3146/" }
+    "source": "https://www.eizo.com/products/coloredge/cg3146/" },
+
+  "avs_hdr_set1_pq": {
+    "name": "AVS HDR collection 1, SONY 65a95l OLED, 3840x2160, peak luminance 1404 cd/m^2, viewed in dark room from 1.6 x display height",
+    "colorspace": "BT.2020-PQ",
+    "resolution": [3840, 2160],
+    "viewing_distance_meters": 1.2951,
+    "diagonal_size_inches": 65,
+    "max_luminance": 1404,
+    "contrast": 1000000,
+    "E_ambient": 0,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set1_hlg": {
+    "name": "AVS HDR collection 1, SONY 65a95l OLED, 3840x2160, peak luminance 1404 cd/m^2, viewed in dark room from 1.6 x display height",
+    "colorspace": "BT.2020-HLG",
+    "resolution": [3840, 2160],
+    "viewing_distance_meters": 1.2951,
+    "diagonal_size_inches": 65,
+    "max_luminance": 1404,
+    "contrast": 1000000,
+    "E_ambient": 5,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set2_pq": {
+    "name": "AVS HDR collection 2, ASUS ProArt PA32UCXR, 3840x2160, peak luminance 1420 cd/m^2, viewed in dark room from 1.6 x display height",
+    "colorspace": "BT.2020-PQ",
+    "resolution": [3840, 2160],
+    "viewing_distance_meters": 0.6376,
+    "diagonal_size_inches": 32,
+    "max_luminance": 1420,
+    "contrast": 1000000,
+    "E_ambient": 0,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set2_hlg": {
+    "name": "AVS HDR collection 2, ASUS ProArt PA32UCXR, 3840x2160, peak luminance 1420 cd/m^2, viewed in dark room from 1.6 x display height",
+    "colorspace": "BT.2020-HLG",
+    "resolution": [3840, 2160],
+    "viewing_distance_meters": 0.6376,
+    "diagonal_size_inches": 32,
+    "max_luminance": 1420,
+    "contrast": 1000000,
+    "E_ambient": 5,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set3_pq": {
+    "name": "AVS HDR collection 3, SONY TRIMASTER HX 4K, 4096x2160, peak luminance 3924.18 cd/m^2, viewed in dark room from 1.6 to 3 x display height",
+    "colorspace": "BT.2020-PQ",
+    "resolution": [4096, 2160],
+    "viewing_distance_meters": 0.5896,
+    "viewing_distance_range_meters": [0.5896, 1.1054],
+    "diagonal_size_inches": 31.1,
+    "max_luminance": 3924.18,
+    "contrast": 1000000,
+    "E_ambient": 0,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set3_hlg": {
+    "name": "AVS HDR collection 3, SONY TRIMASTER HX 4K, 4096x2160, peak luminance 3924.18 cd/m^2, viewed in dark room from 1.6 to 3 x display height",
+    "colorspace": "BT.2020-HLG",
+    "resolution": [4096, 2160],
+    "viewing_distance_meters": 0.5896,
+    "viewing_distance_range_meters": [0.5896, 1.1054],
+    "diagonal_size_inches": 31.1,
+    "max_luminance": 3924.18,
+    "contrast": 1000000,
+    "E_ambient": 5,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set4_pq": {
+    "name": "AVS HDR collection 4, ASUS ProArt PA32UCXR, 3840x2160, peak luminance 1420 cd/m^2, viewed in dark room from 1.6 x display height",
+    "colorspace": "BT.2020-PQ",
+    "resolution": [3840, 2160],
+    "viewing_distance_meters": 0.6376,
+    "diagonal_size_inches": 32,
+    "max_luminance": 1420,
+    "contrast": 1000000,
+    "E_ambient": 0,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" },
+
+  "avs_hdr_set4_hlg": {
+    "name": "AVS HDR collection 4, ASUS ProArt PA32UCXR, 3840x2160, peak luminance 1420 cd/m^2, viewed in dark room from 1.6 x display height",
+    "colorspace": "BT.2020-HLG",
+    "resolution": [3840, 2160],
+    "viewing_distance_meters": 0.6376,
+    "diagonal_size_inches": 32,
+    "max_luminance": 1420,
+    "contrast": 1000000,
+    "E_ambient": 5,
+    "source": "AVS HDR objective quality assessment proposal N4268 appendix 1" }
  
 }
